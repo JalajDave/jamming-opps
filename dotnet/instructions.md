@@ -1,4 +1,4 @@
-# Welcome .NET Core Exercise
+# .NET Core Exercise
 
 ```
 TIMEBOX:    2-3 hours max. We mean it!
@@ -22,9 +22,9 @@ Ideally your solution would have some way to run locally and visualize the resul
 
 ### As a workshop manager I want to
 
-* See list of all my customers
-* See list of all vehicles belonging to my customer
-* See list of vehicles due for service in coming week
+* See list of all my customers (Bonus - Can search particualr customer)
+* See list of all vehicles belonging to my customer 
+* See list of vehicles due for service in coming week (Bonus - Can sort vehicle by service due date)
 * Book a slot in workshop for vehicle. Everyday only 4 slots can be booked.
 ---------
 
