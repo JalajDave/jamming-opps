@@ -52,5 +52,3 @@ We know that the technical hiring processes in our industry are generally broken
 5. When complete email a link to the repository and any special instructions to people@prowerse.com
 
 6. Sit back and relax. We'll review your submission and get back to you within 48 hours :smiley:
-
-Credit to idea originator - [pineapplehq](https://github.com/pineapplehq/hiring-exercises).
