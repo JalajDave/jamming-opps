@@ -29,6 +29,7 @@ We know that the technical hiring processes in our industry are generally broken
 
 1. Choose an exercise directory that matches your primary domain. This is the area in which you feel the most comfortable and have the highest degree of mastery
     * [.NET Core Stack](dotnet/instructions.md)
+    * [DevOps Stack](devops/instructions.md)
 
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) or by emailing people@prowerse.com
 
