@@ -13,7 +13,6 @@ DOCS:       nice to have, but not mandatory
 - This is **NOT** a test of how well you know React JS, nor should you try to impress us with overly clever and obtuse solutions. If you want to impress us, build something that is beautiful, intuitive and easy to debug/test/extend :smiley: .
 - Ideally your solution would have some way to run locally and visualize the results in a plan file so we can fully analyze the experience and not just the source code.
 
-
 # Task
 
 - Create a new React.js project using your preferred setup (e.g., Create React App).
@@ -23,7 +22,6 @@ DOCS:       nice to have, but not mandatory
 - Implement error handling in case the API request fails or returns an error response.
 - Add a loading state while the data is being fetched.
 - Add pagination on the table.
-
 
 # Bonus
 
