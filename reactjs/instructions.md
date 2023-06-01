@@ -3,7 +3,7 @@
 ```
 TIMEBOX:    2-3 hours max. We mean it!
 LANGUAGES:  React JS
-TESTS:      plan file
+TESTS:      Jest Framework
 DOCS:       nice to have, but not mandatory
 ```
 
