@@ -1,4 +1,4 @@
-# ReactJs Exercise
+# React Native Exercise
 
 ```
 TIMEBOX:    2-3 hours max. We mean it!
