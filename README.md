@@ -31,6 +31,7 @@ We know that the technical hiring processes in our industry are generally broken
     * [.NET Core Stack](dotnet/instructions.md)
     * [DevOps Stack](devops/instructions.md)
     * [ReactJs Stack](reactjs/instructions.md)
+    * [React Native Stack](reactnative/instructions.md)
 
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) or by emailing people@prowerse.com
 
