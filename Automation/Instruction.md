@@ -1,12 +1,11 @@
 # Web UI Automation Exercise
 
 ```
-Time Duration : 2 To 3 Hours 
-Design Pattern :Page Object Model
-Development Process : TDD OR BDD
-Automation Tool :Any form Selenium ,Playwright and 
-Cypress
-Language : Java ,python ,Typescript or any suitable to automation tool 
+Time Duration: 2 To 3 Hours 
+Design Pattern: Page Object Model
+Development Process: TDD OR BDD
+Automation Tool: Any form Selenium ,Playwright and Cypress
+Language: Java, python, Typescript or any suitable to automation tool 
 
 ```
 
@@ -31,7 +30,8 @@ URL: https://www.makemytrip.com/flights/
 * Select Departure date as 1st date of next month
 * Select ADULTS –2, CHILDREN - 1, INFANTS – 1
 * Click on search
-* Verify TRIP TYPE, FROM, TO, DEPART & PASSENGERS & CLASS                                                                              (Bonus 1. Filter by Nonstop and validate count given beside Nonstop in filer and right-side total flights count are same. eg Beside Nonstop it is showing 3 and on right side it is showing 3 flights.)
+* Verify TRIP TYPE, FROM, TO, DEPART & PASSENGERS & CLASS                                                                              
+(Bonus 1. Filter by Nonstop and validate count given beside Nonstop in filer and right-side total flights count are same. eg Beside Nonstop it is showing 3 and on right side it is showing 3 flights.)
 ---------
 
 # Submitting your exercise
