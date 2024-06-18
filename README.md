@@ -33,6 +33,7 @@ We know that the technical hiring processes in our industry are generally broken
     * [ReactJs Stack](reactjs/instructions.md)
     * [React Native Stack](reactnative/instructions.md)
     * [Python Stack](python/instructions.md)
+    * [QA Automation](Automation/Instruction.md)
 
 2. Read the `instructions.md` file in the matching directory. Be sure to read the instructions carefully and ask any clarifying questions either via [Github issues](https://github.com/pineapplehq/hiring-exercises/issues) or by emailing people@prowerse.com
 
